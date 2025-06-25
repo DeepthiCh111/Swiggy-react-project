@@ -1,0 +1,103 @@
+export const resList = [
+  {
+    id: 1,
+    name: "Pizza Paradise",
+    avgRating: 4.2,
+    cuisines: ["Italian", "Vegetarian"],
+    image: "https://images.unsplash.com/photo-1601924582975-4cc9f231ed6a",
+  },
+  {
+    id: 2,
+    name: "Royal Biryani House",
+    avgRating: 4.5,
+    cuisines: ["Indian", "Mughlai"],
+    image: "https://images.unsplash.com/photo-1608032077018-2ebd8aab3f97",
+  },
+  {
+    id: 3,
+    name: "Burger Barn",
+    avgRating: 4.0,
+    cuisines: ["American", "Fast Food"],
+    image: "https://images.unsplash.com/photo-1550317138-10000687a72b",
+  },
+  {
+    id: 4,
+    name: "Sushi Central",
+    avgRating: 4.7,
+    cuisines: ["Japanese", "Seafood"],
+    image: "https://images.unsplash.com/photo-1553621042-f6e147245754",
+  },
+  {
+    id: 5,
+    name: "Spice of India",
+    avgRating: 4.3,
+    cuisines: ["Indian", "North Indian"],
+    image: "https://www.funfoodfrolic.com/wp-content/uploads/2018/08/4.jpg",
+  },
+  {
+    id: 6,
+    name: "Green Bowl",
+    avgRating: 4.1,
+    cuisines: ["Continental", "Healthy"],
+    image: "https://assets.zeezest.com/images/PROD_1_1664167471960.jpg",
+  },
+  {
+    id: 7,
+    name: "Tandoori Flames",
+    avgRating: 4.6,
+    cuisines: ["Indian", "Grill"],
+    image: "https://images.unsplash.com/photo-1613145996071-68c3e89f75ba",
+  },
+  {
+    id: 8,
+    name: "Pasta Point",
+
+    avgRating: 4.0,
+    cuisines: ["Italian", "Creamy"],
+    image: "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642",
+  },
+  {
+    id: 9,
+    name: "Wrap & Roll",
+    avgRating: 3.9,
+    cuisines: ["Middle Eastern", "Vegan"],
+    image: "https://images.unsplash.com/photo-1605475126180-63aaedf4dd49",
+  },
+  {
+    id: 10,
+    name: "British Bites",
+    avgRating: 4.4,
+    cuisines: ["British", "Seafood"],
+    image:
+      "https://images.immediate.co.uk/production/volatile/sites/30/2023/06/Seafood-spaghetti-fd57094.jpg?quality=90&resize=556,505ttps://images.unsplash.com/photo-1585238342028-0316a3bba0f3",
+  },
+  {
+    id: 11,
+    name: "Butter Chicken Co.",
+    avgRating: 4.5,
+    cuisines: ["Indian", "Punjabi"],
+    image:
+      "https://th.bing.com/th/id/OIP.o8Nh01uNyO3stEckV6F64QHaFM?w=768&h=538&rs=1&pid=ImgDetMain",
+  },
+  {
+    id: 12,
+    name: "Ramen Republic",
+    avgRating: 4.2,
+    cuisines: ["Japanese", "Noodles"],
+    image: "https://images.unsplash.com/photo-1589308078054-832e6f52b43e",
+  },
+  {
+    id: 13,
+    name: "Greek Garden",
+    avgRating: 4.1,
+    cuisines: ["Greek", "Healthy"],
+    image: "https://images.unsplash.com/photo-1506084868230-bb9d95c24759",
+  },
+  {
+    id: 14,
+    name: "Steak Station",
+    avgRating: 4.6,
+    cuisines: ["American", "Grill"],
+    image: "https://images.unsplash.com/photo-1601315483592-c3e7fd08e8d4",
+  },
+];
